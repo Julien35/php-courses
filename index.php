@@ -2,9 +2,7 @@
 
 //impair();
 //mutliplication13();
-echo factorielle(30);
-
-
+//echo factorielle(30);
 
 function factorielle(int $n)
 {
@@ -29,4 +27,3 @@ function impair()
         echo $i . "\n";
     }
 }
-
